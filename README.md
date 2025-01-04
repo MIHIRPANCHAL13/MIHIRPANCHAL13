@@ -24,7 +24,8 @@ Welcome to my GitHub! I’m a **Software Developer**, **AI Enthusiast**, and a *
 
 ## 📍 Let's Connect
 
-- [LinkedIn](in/mihir-panchal-86588b1b2)
+- [LinkedIn](https://www.linkedin.com/in/mihir-panchal-86588b1b2
+)
 - [Kaggle](https://www.kaggle.com/mihirpanchal13)
 - [GitHub](https://github.com/MIHIRPANCHAL13)
 
